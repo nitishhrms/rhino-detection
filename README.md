@@ -1,3 +1,3 @@
 # rhino-detection
 app for detection of rhino
-https://mybinder.org/v2/gh/nitishhrms/rhino-detection/HEAD?filepath=%2Fvoila%2Frender%2Fapp_voila_4.ipynb
+https://hub.gke2.mybinder.org/user/nitishhrms-rhino-detection-u6i3fyu7/voila/render/app_voila4.ipynb?token=jnG6mTmsR0mmJqv0oRiAqQ
